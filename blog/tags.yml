@@ -1,0 +1,19 @@
+playwright:
+  label: playwright
+  permalink: /playwright
+  description: playwright tag description
+
+typescript:
+  label: typescript
+  permalink: /typescript
+  description: typescript tag description
+
+javascript:
+  label: javascript
+  permalink: /javascript
+  description: javascript tag description
+
+cucumberjs:
+  label: cucumberjs
+  permalink: /cucumberjs
+  description: cucumberjs tag description
