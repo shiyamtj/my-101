@@ -10,7 +10,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://shiyamtj.github.io/my-101/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/my-101/',
@@ -40,8 +40,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://shiyamtj.github.io/my-101/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://shiyamtj.github.io/my-101/',
         },
         blog: false,
         // {
